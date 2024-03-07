@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm from Pariaman, Indonesia 🇮🇩<br>- 📚 I’m currently learning Go lang<br>  - ⚡ In my free time I Gaming & Watching</p>
+<p align="left">I'm from Pariaman, Indonesia 🇮🇩<br>- 📚 I’m currently learning<b> Go lang</b><br>  - ⚡ In my free time I <b>Gaming & Watching</b></p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<h4 align="center">Visitor's count 👀</h4>
+<h3 align="center">Visitor's count 👀</h3>
 
 ###
 
