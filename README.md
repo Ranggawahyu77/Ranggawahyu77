@@ -7,7 +7,7 @@
 ###
 
 <p align="left">I'm from Pariaman, Indonesia 🇮🇩<br>
-  - 📚 I’m currently learning<b> Go lang</b><br>  
+  - 📚 I’m currently learning<b> Go lang</b> and deep dive in Laravel<br>  
   - ⚡ In my free time I <b>Gaming & Watching</b><br>
   - ⚔️ I do coding challenges to improve my programming logic ➡️ <a href="https://www.codewars.com/users/Ranggawahyu77">Codewars</a> & <a href="https://coderbyte.com/profile/ranggawahyu77">Coderbyte</a>
 </p>
